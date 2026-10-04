@@ -18,7 +18,7 @@ An interactive Python web application to calculate and visualize ellipses in rea
 
 ## 🌐 Live Demo
 
-👉 **[Open the app online](https://YOUR-APP-LINK.streamlit.app)**
+👉 **[Open the app online](https://ellipse-visualization-jvpmaqvdo7wanf3vw96zcq.streamlit.app/)**
 
 No installation required — just open the link in your browser.
 
@@ -51,7 +51,7 @@ y = cy + a·cos(t)·sin(φ) + b·sin(t)·cos(φ),   t ∈ [0, 2π]
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://m1taxx/YOUR-REPO.git
 cd YOUR-REPO
 
 # 2. Install dependencies
