@@ -51,8 +51,8 @@ y = cy + a·cos(t)·sin(φ) + b·sin(t)·cos(φ),   t ∈ [0, 2π]
 
 ```bash
 # 1. Clone the repository
-git clone https://m1taxx/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://m1taxx/Ellipse-Visualization.git
+cd Ellipse-Visualization
 
 # 2. Install dependencies
 pip install -r requirements.txt
